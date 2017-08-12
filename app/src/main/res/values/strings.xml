@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">驾校宝典</string>
+    <string name="main">主页</string>
+    <string name="user">用户</string>
+    <string name="title_activity_other">otherActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>
